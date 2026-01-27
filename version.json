@@ -1,13 +1,12 @@
 {
   "master": {
     "version": "2.2.0",
-    "url": "https://raw.githubusercontent.com/besirsahan/solar-tracker-ota/main/master.bin
-" 
+    "url": "https://raw.githubusercontent.com/besirsahan/solar-tracker-ota/main/master.bin" 
   },
   "slave": {
     "version": "2.2.0",
-    "url": "https://raw.githubusercontent.com/besirsahan/solar-tracker-ota/main/slave.bin
-"
+    "url": "https://raw.githubusercontent.com/besirsahan/solar-tracker-ota/main/slave.bin"
   }
 
 }
+
