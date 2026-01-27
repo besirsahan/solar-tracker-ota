@@ -1,0 +1,10 @@
+{
+  "master": {
+    "version": "2.2.0",
+    "url": "https://raw.githubusercontent.com/.../master.bin" 
+  },
+  "slave": {
+    "version": "2.2.0",
+    "url": "https://raw.githubusercontent.com/.../slave.bin"
+  }
+}
